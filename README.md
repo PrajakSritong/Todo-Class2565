@@ -26,9 +26,4 @@
 
 ---
 
-## ⚙️ การติดตั้ง
-
-1. โคลนโปรเจค
-   ```bash
-   git clone https://github.com/your-username/news-feed-app.git
-   cd news-feed-app
+# นายประจักษ์ ศรีทอง
